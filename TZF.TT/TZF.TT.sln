@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TZF.TT", "TZF.TT\TZF.TT.csproj", "{981D5CE4-3F45-4A5E-84DC-FDFB1987B583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{FEBC0583-EF5E-4572-8ADB-ED0B8F464004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1540BB6A-7703-4ECA-827A-B28EEA37BDA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{981D5CE4-3F45-4A5E-84DC-FDFB1987B583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{981D5CE4-3F45-4A5E-84DC-FDFB1987B583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{981D5CE4-3F45-4A5E-84DC-FDFB1987B583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEBC0583-EF5E-4572-8ADB-ED0B8F464004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEBC0583-EF5E-4572-8ADB-ED0B8F464004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEBC0583-EF5E-4572-8ADB-ED0B8F464004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEBC0583-EF5E-4572-8ADB-ED0B8F464004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1540BB6A-7703-4ECA-827A-B28EEA37BDA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1540BB6A-7703-4ECA-827A-B28EEA37BDA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1540BB6A-7703-4ECA-827A-B28EEA37BDA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1540BB6A-7703-4ECA-827A-B28EEA37BDA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
